@@ -1,0 +1,22 @@
+.form{
+    padding: 20px;
+}
+
+.titulo__input{
+    width: 98%;
+    padding: 5px;
+}
+.label{
+    font-size: 2rem;
+}
+.submit{
+    background-color: #007bff; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    border: none; /* Remover borda */
+    padding: 10px 20px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
+    cursor: pointer; /* Ícone de cursor de mão ao passar o mouse */
+    border-radius: 5px; /* Cantos arredondados */
+    width: 100%;
+    margin-top: 20px;
+}

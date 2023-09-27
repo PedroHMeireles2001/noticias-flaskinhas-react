@@ -1,0 +1,28 @@
+.noticia{
+    padding: 10px;
+}
+.titulo{
+    display: inline-block;
+    color: #000;
+}
+.data{
+    display: block;
+    color: #999;
+    font-size: .8em;
+    margin-right: 5px;
+}
+
+.spans{
+    display: flex;
+}
+
+.buttons{
+    margin: 0 5px;
+    font-size: .8em;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.excluir{
+    color: red;
+}
